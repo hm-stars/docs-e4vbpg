@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-p14evp.date-me.pro/sitemap.xml
